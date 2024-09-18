@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="width=device-width, initial-scale=1.0">
+    <title>404 Not Found</title>
+    <link rel="icon" href="face.ico">
+    <style>
+        /* Configuração base da página */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f4f8;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+
+/* Estilo do contêiner da página de erro */
+.error-container {
+    text-align: center;
+    background: white;
+    padding: 40px 60px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Título principal "404" */
+.error-container h1 {
+    font-size: 8rem;
+    margin: 0;
+    color: #2c3e50;
+    font-weight: 700;
+}
+
+/* Mensagem de erro */
+.error-container p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+    color: #7f8c8d;
+    line-height: 1.6;
+}
+
+/* Botão de voltar para a página inicial (versão anterior) */
+.home-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+    background-color: #2980b9;
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+    .error-container h1 {
+        font-size: 6rem;
+    }
+
+    .error-container p {
+        font-size: 1rem;
+    }
+}
+
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <h1>404</h1>
+        <p>Desculpe, a página que você está procurando não foi encontrada.</p>
+        <a href="index.php" class="home-button">Voltar para a Página Inicial</a>
+    </div>
+</body>
+</html>
